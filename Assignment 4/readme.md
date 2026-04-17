@@ -89,9 +89,8 @@ Assignment4.html
 
 ## 👨‍💻 Author
 
-**Pritesh Bagul**
+**Amrita Iyer**
 B.Tech Computer Engineering Student
-
 ---
 
 ## 📃 License
