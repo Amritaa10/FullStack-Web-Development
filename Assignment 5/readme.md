@@ -39,7 +39,7 @@ node server.js
 ```
 http://localhost:3000
 ```
+## 👨‍💻 Author
 
-## Author
-
-Joel Emmanuel
+**Amrita Iyer**
+B.Tech Computer Engineering Student
